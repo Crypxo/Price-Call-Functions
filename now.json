@@ -1,0 +1,5 @@
+{
+    "env": {
+        "CC_API_KEY": "@cc-api-key"
+    }
+}
